@@ -1,0 +1,1 @@
+{"version":3,"file":"advisoryRoutes.js","sourceRoot":"","sources":["../../src/routes/advisoryRoutes.ts"],"names":[],"mappings":";;AAAA,qCAAiC;AACjC,gFAA0E;AAC1E,mDAAuD;AAEvD,MAAM,MAAM,GAAG,IAAA,gBAAM,GAAE,CAAC;AAExB,MAAM,CAAC,IAAI,CAAC,UAAU,EAAE,wBAAc,EAAE,0CAAkB,CAAC,eAAe,CAAC,CAAC;AAC5E,MAAM,CAAC,GAAG,CAAC,qBAAqB,EAAE,0CAAkB,CAAC,kBAAkB,CAAC,CAAC;AAEzE,kBAAe,MAAM,CAAC"}
